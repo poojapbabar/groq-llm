@@ -1,0 +1,4 @@
+Flask 
+#torch==2.3.1
+transformers 
+pdfminer.six 
